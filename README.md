@@ -1,5 +1,5 @@
 # Java Fruit Basket Manager
-### Projet académique dans le cadre du cours Génie Logiciel 
+### Projet académique dans le cadre du cours Génie Logiciel (L3 informatique)
 Application Java avec interface Swing permettant de gérer un panier de fruits. Fonctionnalités complètes : authentification, ajout/suppression de fruits, boycott par origine, création personnalisée et modification de capacité.
 
 ## Fonctionnalités
